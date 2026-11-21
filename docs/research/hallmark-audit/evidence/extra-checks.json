@@ -1,0 +1,2660 @@
+{
+  "at": "2026-10-21T18:51:35.964Z",
+  "browser": "155.0.4283.62",
+  "records": [
+    {
+      "name": "compose-checking-390",
+      "note": "Native checking UI; request intercepted and held by audit harness; no evaluator result claimed",
+      "viewport": [
+        390,
+        844
+      ],
+      "rootWidth": 390,
+      "focus": {
+        "name": "\n  \n    davioExplore to Hall · playable design preview\n    Demo options\n  \n  ×Det är rusningstid på ",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844,
+          "bottom": 844,
+          "right": 390
+        },
+        "outline": "rgb(243, 237, 227) none 3px",
+        "visible": false
+      },
+      "passages": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "controls": [
+        {
+          "text": "Demo options",
+          "rect": {
+            "x": 290.125,
+            "y": 5,
+            "width": 87.875,
+            "height": 44,
+            "bottom": 49,
+            "right": 378
+          },
+          "fontSize": "11px",
+          "disabled": false
+        },
+        {
+          "text": "Leave sitting",
+          "rect": {
+            "x": 12,
+            "y": 60.5,
+            "width": 48,
+            "height": 48,
+            "bottom": 108.5,
+            "right": 60
+          },
+          "fontSize": "28px",
+          "disabled": false
+        },
+        {
+          "text": "Play this passage",
+          "rect": {
+            "x": 27,
+            "y": -771.15625,
+            "width": 24,
+            "height": 24,
+            "bottom": -747.15625,
+            "right": 51
+          },
+          "fontSize": "21px",
+          "disabled": false
+        },
+        {
+          "text": "Play this passage",
+          "rect": {
+            "x": 27,
+            "y": -467.828125,
+            "width": 24,
+            "height": 24,
+            "bottom": -443.828125,
+            "right": 51
+          },
+          "fontSize": "21px",
+          "disabled": false
+        },
+        {
+          "text": "Play this passage",
+          "rect": {
+            "x": 27,
+            "y": -291.3125,
+            "width": 24,
+            "height": 24,
+            "bottom": -267.3125,
+            "right": 51
+          },
+          "fontSize": "21px",
+          "disabled": false
+        },
+        {
+          "text": "",
+          "rect": {
+            "x": 36,
+            "y": 548.28125,
+            "width": 318,
+            "height": 134,
+            "bottom": 682.28125,
+            "right": 354
+          },
+          "fontSize": "18px",
+          "disabled": true
+        },
+        {
+          "text": "Checking...",
+          "rect": {
+            "x": 36,
+            "y": 700.28125,
+            "width": 318,
+            "height": 50,
+            "bottom": 750.28125,
+            "right": 354
+          },
+          "fontSize": "15px",
+          "disabled": true
+        }
+      ]
+    },
+    {
+      "name": "compose-unchecked-390",
+      "note": "Native technical feedback after injected unchecked response",
+      "viewport": [
+        390,
+        844
+      ],
+      "rootWidth": 390,
+      "focus": {
+        "name": "Try checking again",
+        "rect": {
+          "x": 23,
+          "y": 706,
+          "width": 344,
+          "height": 50,
+          "bottom": 756,
+          "right": 367
+        },
+        "outline": "rgb(27, 36, 40) none 3px",
+        "visible": false
+      },
+      "passages": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "controls": [
+        {
+          "text": "Demo options",
+          "rect": {
+            "x": 290.125,
+            "y": 5,
+            "width": 87.875,
+            "height": 44,
+            "bottom": 49,
+            "right": 378
+          },
+          "fontSize": "11px",
+          "disabled": false
+        },
+        {
+          "text": "Leave sitting",
+          "rect": {
+            "x": 12,
+            "y": 60.5,
+            "width": 48,
+            "height": 48,
+            "bottom": 108.5,
+            "right": 60
+          },
+          "fontSize": "28px",
+          "disabled": false
+        },
+        {
+          "text": "Play this passage",
+          "rect": {
+            "x": 27,
+            "y": -771.15625,
+            "width": 24,
+            "height": 24,
+            "bottom": -747.15625,
+            "right": 51
+          },
+          "fontSize": "21px",
+          "disabled": false
+        },
+        {
+          "text": "Play this passage",
+          "rect": {
+            "x": 27,
+            "y": -467.828125,
+            "width": 24,
+            "height": 24,
+            "bottom": -443.828125,
+            "right": 51
+          },
+          "fontSize": "21px",
+          "disabled": false
+        },
+        {
+          "text": "Play this passage",
+          "rect": {
+            "x": 27,
+            "y": -291.3125,
+            "width": 24,
+            "height": 24,
+            "bottom": -267.3125,
+            "right": 51
+          },
+          "fontSize": "21px",
+          "disabled": false
+        },
+        {
+          "text": "",
+          "rect": {
+            "x": 36,
+            "y": 548.28125,
+            "width": 318,
+            "height": 134,
+            "bottom": 682.28125,
+            "right": 354
+          },
+          "fontSize": "18px",
+          "disabled": true
+        },
+        {
+          "text": "Checking...",
+          "rect": {
+            "x": 36,
+            "y": 700.28125,
+            "width": 318,
+            "height": 50,
+            "bottom": 750.28125,
+            "right": 354
+          },
+          "fontSize": "15px",
+          "disabled": true
+        },
+        {
+          "text": "Try checking again",
+          "rect": {
+            "x": 23,
+            "y": 706,
+            "width": 344,
+            "height": 50,
+            "bottom": 756,
+            "right": 367
+          },
+          "fontSize": "15px",
+          "disabled": false
+        },
+        {
+          "text": "Leave for now",
+          "rect": {
+            "x": 23,
+            "y": 766,
+            "width": 344,
+            "height": 50,
+            "bottom": 816,
+            "right": 367
+          },
+          "fontSize": "15px",
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "name": "compose-info-390",
+      "note": "Seeded saved feedback object; visual state only, no actual job-success evaluation",
+      "viewport": [
+        390,
+        844
+      ],
+      "rootWidth": 390,
+      "focus": {
+        "name": "OK",
+        "rect": {
+          "x": 23,
+          "y": 766,
+          "width": 344,
+          "height": 50,
+          "bottom": 816,
+          "right": 367
+        },
+        "outline": "rgb(27, 36, 40) none 3px",
+        "visible": false
+      },
+      "passages": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "controls": [
+        {
+          "text": "Demo options",
+          "rect": {
+            "x": 290.125,
+            "y": 5,
+            "width": 87.875,
+            "height": 44,
+            "bottom": 49,
+            "right": 378
+          },
+          "fontSize": "11px",
+          "disabled": false
+        },
+        {
+          "text": "Leave sitting",
+          "rect": {
+            "x": 12,
+            "y": 60.5,
+            "width": 48,
+            "height": 48,
+            "bottom": 108.5,
+            "right": 60
+          },
+          "fontSize": "28px",
+          "disabled": false
+        },
+        {
+          "text": "Play this passage",
+          "rect": {
+            "x": 27,
+            "y": 265.84375,
+            "width": 24,
+            "height": 24,
+            "bottom": 289.84375,
+            "right": 51
+          },
+          "fontSize": "21px",
+          "disabled": false
+        },
+        {
+          "text": "Play this passage",
+          "rect": {
+            "x": 27,
+            "y": 569.171875,
+            "width": 24,
+            "height": 24,
+            "bottom": 593.171875,
+            "right": 51
+          },
+          "fontSize": "21px",
+          "disabled": false
+        },
+        {
+          "text": "Play this passage",
+          "rect": {
+            "x": 27,
+            "y": 745.6875,
+            "width": 24,
+            "height": 24,
+            "bottom": 769.6875,
+            "right": 51
+          },
+          "fontSize": "21px",
+          "disabled": false
+        },
+        {
+          "text": "Audit response",
+          "rect": {
+            "x": 36,
+            "y": 1585.28125,
+            "width": 318,
+            "height": 134,
+            "bottom": 1719.28125,
+            "right": 354
+          },
+          "fontSize": "18px",
+          "disabled": false
+        },
+        {
+          "text": "Submit",
+          "rect": {
+            "x": 36,
+            "y": 1737.28125,
+            "width": 318,
+            "height": 50,
+            "bottom": 1787.28125,
+            "right": 354
+          },
+          "fontSize": "15px",
+          "disabled": false
+        },
+        {
+          "text": "OK",
+          "rect": {
+            "x": 23,
+            "y": 766,
+            "width": 344,
+            "height": 50,
+            "bottom": 816,
+            "right": 367
+          },
+          "fontSize": "15px",
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "name": "reading-paused-390",
+      "note": "Seeded restored accepted state exercises native Resume reading overlay",
+      "viewport": [
+        390,
+        844
+      ],
+      "rootWidth": 390,
+      "focus": {
+        "name": "Resume reading",
+        "rect": {
+          "x": 23,
+          "y": 766,
+          "width": 344,
+          "height": 50,
+          "bottom": 816,
+          "right": 367
+        },
+        "outline": "rgb(27, 36, 40) none 3px",
+        "visible": false
+      },
+      "passages": [
+        0
+      ],
+      "controls": [
+        {
+          "text": "Demo options",
+          "rect": {
+            "x": 290.125,
+            "y": 5,
+            "width": 87.875,
+            "height": 44,
+            "bottom": 49,
+            "right": 378
+          },
+          "fontSize": "11px",
+          "disabled": false
+        },
+        {
+          "text": "Leave sitting",
+          "rect": {
+            "x": 12,
+            "y": 60.5,
+            "width": 48,
+            "height": 48,
+            "bottom": 108.5,
+            "right": 60
+          },
+          "fontSize": "28px",
+          "disabled": false
+        },
+        {
+          "text": "Play this passage",
+          "rect": {
+            "x": 27,
+            "y": 265.84375,
+            "width": 24,
+            "height": 24,
+            "bottom": 289.84375,
+            "right": 51
+          },
+          "fontSize": "21px",
+          "disabled": false
+        },
+        {
+          "text": "Hans komradio är död och han måste stå kvar vid den öppna dörren.",
+          "rect": {
+            "x": 36,
+            "y": 681.515625,
+            "width": 318,
+            "height": 67,
+            "bottom": 748.515625,
+            "right": 354
+          },
+          "fontSize": "15px",
+          "disabled": true
+        },
+        {
+          "text": "Han har tappat bort sin komradio och måste leta efter den i tåget.",
+          "rect": {
+            "x": 36,
+            "y": 758.515625,
+            "width": 318,
+            "height": 67,
+            "bottom": 825.515625,
+            "right": 354
+          },
+          "fontSize": "15px",
+          "disabled": true
+        },
+        {
+          "text": "Hans komradio fungerar, men högtalarna på stationen överröstar honom.",
+          "rect": {
+            "x": 36,
+            "y": 835.515625,
+            "width": 318,
+            "height": 67,
+            "bottom": 902.515625,
+            "right": 354
+          },
+          "fontSize": "15px",
+          "disabled": true
+        },
+        {
+          "text": "Resume reading",
+          "rect": {
+            "x": 23,
+            "y": 766,
+            "width": 344,
+            "height": 50,
+            "bottom": 816,
+            "right": 367
+          },
+          "fontSize": "15px",
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "name": "reading-paused-focus-390",
+      "note": "Keyboard remains within modal while underlying phone is inert",
+      "viewport": [
+        390,
+        844
+      ],
+      "rootWidth": 390,
+      "focus": {
+        "name": "Resume reading",
+        "rect": {
+          "x": 23,
+          "y": 766,
+          "width": 344,
+          "height": 50,
+          "bottom": 816,
+          "right": 367
+        },
+        "outline": "rgb(231, 194, 122) solid 3px",
+        "visible": true
+      },
+      "passages": [
+        0
+      ],
+      "controls": [
+        {
+          "text": "Demo options",
+          "rect": {
+            "x": 290.125,
+            "y": 5,
+            "width": 87.875,
+            "height": 44,
+            "bottom": 49,
+            "right": 378
+          },
+          "fontSize": "11px",
+          "disabled": false
+        },
+        {
+          "text": "Leave sitting",
+          "rect": {
+            "x": 12,
+            "y": 60.5,
+            "width": 48,
+            "height": 48,
+            "bottom": 108.5,
+            "right": 60
+          },
+          "fontSize": "28px",
+          "disabled": false
+        },
+        {
+          "text": "Play this passage",
+          "rect": {
+            "x": 27,
+            "y": 265.84375,
+            "width": 24,
+            "height": 24,
+            "bottom": 289.84375,
+            "right": 51
+          },
+          "fontSize": "21px",
+          "disabled": false
+        },
+        {
+          "text": "Hans komradio är död och han måste stå kvar vid den öppna dörren.",
+          "rect": {
+            "x": 36,
+            "y": 681.515625,
+            "width": 318,
+            "height": 67,
+            "bottom": 748.515625,
+            "right": 354
+          },
+          "fontSize": "15px",
+          "disabled": true
+        },
+        {
+          "text": "Han har tappat bort sin komradio och måste leta efter den i tåget.",
+          "rect": {
+            "x": 36,
+            "y": 758.515625,
+            "width": 318,
+            "height": 67,
+            "bottom": 825.515625,
+            "right": 354
+          },
+          "fontSize": "15px",
+          "disabled": true
+        },
+        {
+          "text": "Hans komradio fungerar, men högtalarna på stationen överröstar honom.",
+          "rect": {
+            "x": 36,
+            "y": 835.515625,
+            "width": 318,
+            "height": 67,
+            "bottom": 902.515625,
+            "right": 354
+          },
+          "fontSize": "15px",
+          "disabled": true
+        },
+        {
+          "text": "Resume reading",
+          "rect": {
+            "x": 23,
+            "y": 766,
+            "width": 344,
+            "height": 50,
+            "bottom": 816,
+            "right": 367
+          },
+          "fontSize": "15px",
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "name": "reading-resumed-390",
+      "note": "Native continuation from restored accepted response",
+      "viewport": [
+        390,
+        844
+      ],
+      "rootWidth": 390,
+      "focus": {
+        "name": "Oskar ber dig skynda till informationsdisken i huvudhallen för att ge Elin ett meddelande. Du tar ru",
+        "rect": {
+          "x": 22,
+          "y": 221.328125,
+          "width": 346,
+          "height": 158.515625,
+          "bottom": 379.84375,
+          "right": 368
+        },
+        "outline": "rgb(16, 16, 16) auto 1px",
+        "visible": true
+      },
+      "passages": [
+        0,
+        1
+      ],
+      "controls": [
+        {
+          "text": "Demo options",
+          "rect": {
+            "x": 290.125,
+            "y": 5,
+            "width": 87.875,
+            "height": 44,
+            "bottom": 49,
+            "right": 378
+          },
+          "fontSize": "11px",
+          "disabled": false
+        },
+        {
+          "text": "Leave sitting",
+          "rect": {
+            "x": 12,
+            "y": 60.5,
+            "width": 48,
+            "height": 48,
+            "bottom": 108.5,
+            "right": 60
+          },
+          "fontSize": "28px",
+          "disabled": false
+        },
+        {
+          "text": "Play this passage",
+          "rect": {
+            "x": 27,
+            "y": -78.15625,
+            "width": 24,
+            "height": 24,
+            "bottom": -54.15625,
+            "right": 51
+          },
+          "fontSize": "21px",
+          "disabled": false
+        },
+        {
+          "text": "Play this passage",
+          "rect": {
+            "x": 27,
+            "y": 225.171875,
+            "width": 24,
+            "height": 24,
+            "bottom": 249.171875,
+            "right": 51
+          },
+          "fontSize": "21px",
+          "disabled": false
+        },
+        {
+          "text": "den bärbara rampen",
+          "rect": {
+            "x": 36,
+            "y": 599.8125,
+            "width": 318,
+            "height": 58,
+            "bottom": 657.8125,
+            "right": 354
+          },
+          "fontSize": "15px",
+          "disabled": false
+        },
+        {
+          "text": "en ny komradio",
+          "rect": {
+            "x": 36,
+            "y": 667.8125,
+            "width": 318,
+            "height": 58,
+            "bottom": 725.8125,
+            "right": 354
+          },
+          "fontSize": "15px",
+          "disabled": false
+        },
+        {
+          "text": "en reservnyckel",
+          "rect": {
+            "x": 36,
+            "y": 735.8125,
+            "width": 318,
+            "height": 58,
+            "bottom": 793.8125,
+            "right": 354
+          },
+          "fontSize": "15px",
+          "disabled": false
+        },
+        {
+          "text": "Scroll down",
+          "rect": {
+            "x": 171,
+            "y": 796,
+            "width": 48,
+            "height": 48,
+            "bottom": 844,
+            "right": 219
+          },
+          "fontSize": "16px",
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "name": "scroll-assist-390",
+      "movements": [
+        {
+          "before": 0,
+          "after": 163,
+          "label": "Scroll down"
+        }
+      ]
+    },
+    {
+      "name": "scroll-assist-end-390",
+      "note": "Ordinary bottom navigation through already revealed first passage and all choices; no future passage",
+      "viewport": [
+        390,
+        844
+      ],
+      "rootWidth": 390,
+      "focus": {
+        "name": "Oskar söker din blick på perrongen. Vad förklarar han om sin situation?",
+        "rect": {
+          "x": 36,
+          "y": 441.328125,
+          "width": 318,
+          "height": 57.1875,
+          "bottom": 498.515625,
+          "right": 354
+        },
+        "outline": "rgb(243, 237, 227) none 3px",
+        "visible": false
+      },
+      "passages": [
+        0
+      ],
+      "controls": [
+        {
+          "text": "Demo options",
+          "rect": {
+            "x": 290.125,
+            "y": 5,
+            "width": 87.875,
+            "height": 44,
+            "bottom": 49,
+            "right": 378
+          },
+          "fontSize": "11px",
+          "disabled": false
+        },
+        {
+          "text": "Leave sitting",
+          "rect": {
+            "x": 12,
+            "y": 60.5,
+            "width": 48,
+            "height": 48,
+            "bottom": 108.5,
+            "right": 60
+          },
+          "fontSize": "28px",
+          "disabled": false
+        },
+        {
+          "text": "Play this passage",
+          "rect": {
+            "x": 27,
+            "y": 102.84375,
+            "width": 24,
+            "height": 24,
+            "bottom": 126.84375,
+            "right": 51
+          },
+          "fontSize": "21px",
+          "disabled": false
+        },
+        {
+          "text": "Hans komradio är död och han måste stå kvar vid den öppna dörren.",
+          "rect": {
+            "x": 36,
+            "y": 518.515625,
+            "width": 318,
+            "height": 67,
+            "bottom": 585.515625,
+            "right": 354
+          },
+          "fontSize": "15px",
+          "disabled": false
+        },
+        {
+          "text": "Han har tappat bort sin komradio och måste leta efter den i tåget.",
+          "rect": {
+            "x": 36,
+            "y": 595.515625,
+            "width": 318,
+            "height": 67,
+            "bottom": 662.515625,
+            "right": 354
+          },
+          "fontSize": "15px",
+          "disabled": false
+        },
+        {
+          "text": "Hans komradio fungerar, men högtalarna på stationen överröstar honom.",
+          "rect": {
+            "x": 36,
+            "y": 672.515625,
+            "width": 318,
+            "height": 67,
+            "bottom": 739.515625,
+            "right": 354
+          },
+          "fontSize": "15px",
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "name": "text200-choice-dusk-390",
+      "note": "Every rendered element computed font-size and numeric line-height doubled; CSS stress test, not native browser font setting",
+      "viewport": [
+        390,
+        844
+      ],
+      "rootWidth": 390,
+      "focus": {
+        "name": "\n  \n    davioExplore to Hall · playable design preview\n    Demo options\n  \n  ×Det är rusningstid på ",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844,
+          "bottom": 844,
+          "right": 390
+        },
+        "outline": "rgb(243, 237, 227) none 3px",
+        "visible": false
+      },
+      "passages": [
+        0
+      ],
+      "controls": [
+        {
+          "text": "Demo options",
+          "rect": {
+            "x": 245.109375,
+            "y": -9,
+            "width": 132.890625,
+            "height": 72,
+            "bottom": 63,
+            "right": 378
+          },
+          "fontSize": "22px",
+          "disabled": false
+        },
+        {
+          "text": "Leave sitting",
+          "rect": {
+            "x": 12,
+            "y": 60.5,
+            "width": 48,
+            "height": 48,
+            "bottom": 108.5,
+            "right": 60
+          },
+          "fontSize": "56px",
+          "disabled": false
+        },
+        {
+          "text": "Play this passage",
+          "rect": {
+            "x": 27,
+            "y": -1338.15625,
+            "width": 24,
+            "height": 24,
+            "bottom": -1314.15625,
+            "right": 51
+          },
+          "fontSize": "42px",
+          "disabled": false
+        },
+        {
+          "text": "Hans komradio är död och han måste stå kvar vid den öppna dörren.",
+          "rect": {
+            "x": 36,
+            "y": 99.1875,
+            "width": 318,
+            "height": 193,
+            "bottom": 292.1875,
+            "right": 354
+          },
+          "fontSize": "30px",
+          "disabled": false
+        },
+        {
+          "text": "Han har tappat bort sin komradio och måste leta efter den i tåget.",
+          "rect": {
+            "x": 36,
+            "y": 302.1875,
+            "width": 318,
+            "height": 193,
+            "bottom": 495.1875,
+            "right": 354
+          },
+          "fontSize": "30px",
+          "disabled": false
+        },
+        {
+          "text": "Hans komradio fungerar, men högtalarna på stationen överröstar honom.",
+          "rect": {
+            "x": 36,
+            "y": 505.1875,
+            "width": 318,
+            "height": 235,
+            "bottom": 740.1875,
+            "right": 354
+          },
+          "fontSize": "30px",
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "name": "text200-header-dusk-390",
+      "note": "Whole UI text stress at 200%, including fixed header, labels and controls",
+      "viewport": [
+        390,
+        844
+      ],
+      "rootWidth": 390,
+      "focus": {
+        "name": "\n  \n    davioExplore to Hall · playable design preview\n    Demo options\n  \n  davioStockholmRecommend",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844,
+          "bottom": 844,
+          "right": 390
+        },
+        "outline": "rgb(243, 237, 227) none 3px",
+        "visible": false
+      },
+      "passages": [],
+      "controls": [
+        {
+          "text": "Demo options",
+          "rect": {
+            "x": 245.109375,
+            "y": -9,
+            "width": 132.890625,
+            "height": 72,
+            "bottom": 63,
+            "right": 378
+          },
+          "fontSize": "22px",
+          "disabled": false
+        },
+        {
+          "text": "World",
+          "rect": {
+            "x": 328,
+            "y": 98,
+            "width": 48,
+            "height": 48,
+            "bottom": 146,
+            "right": 376
+          },
+          "fontSize": "32px",
+          "disabled": false
+        },
+        {
+          "text": "Start Pass it along",
+          "rect": {
+            "x": 16,
+            "y": 166,
+            "width": 358,
+            "height": 410.15625,
+            "bottom": 576.15625,
+            "right": 374
+          },
+          "fontSize": "32px",
+          "disabled": false
+        },
+        {
+          "text": "Start The locker code",
+          "rect": {
+            "x": 16,
+            "y": 1024.3125,
+            "width": 358,
+            "height": 330.15625,
+            "bottom": 1354.46875,
+            "right": 374
+          },
+          "fontSize": "32px",
+          "disabled": false
+        },
+        {
+          "text": "Explore",
+          "rect": {
+            "x": 0,
+            "y": 779,
+            "width": 129.984375,
+            "height": 55,
+            "bottom": 834,
+            "right": 129.984375
+          },
+          "fontSize": "30px",
+          "disabled": false
+        },
+        {
+          "text": "Practice",
+          "rect": {
+            "x": 130,
+            "y": 779,
+            "width": 129.984375,
+            "height": 55,
+            "bottom": 834,
+            "right": 259.984375
+          },
+          "fontSize": "30px",
+          "disabled": false
+        },
+        {
+          "text": "Profile",
+          "rect": {
+            "x": 260,
+            "y": 779,
+            "width": 129.984375,
+            "height": 55,
+            "bottom": 834,
+            "right": 389.984375
+          },
+          "fontSize": "30px",
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "name": "text200-choice-moss-390",
+      "note": "Every rendered element computed font-size and numeric line-height doubled; CSS stress test, not native browser font setting",
+      "viewport": [
+        390,
+        844
+      ],
+      "rootWidth": 390,
+      "focus": {
+        "name": "\n  \n    davioExplore to Hall · playable design preview\n    Demo options\n  \n  ×Det är rusningstid på ",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844,
+          "bottom": 844,
+          "right": 390
+        },
+        "outline": "rgb(247, 239, 221) none 3px",
+        "visible": false
+      },
+      "passages": [
+        0
+      ],
+      "controls": [
+        {
+          "text": "Demo options",
+          "rect": {
+            "x": 245.109375,
+            "y": -9,
+            "width": 132.890625,
+            "height": 72,
+            "bottom": 63,
+            "right": 378
+          },
+          "fontSize": "22px",
+          "disabled": false
+        },
+        {
+          "text": "Leave sitting",
+          "rect": {
+            "x": 12,
+            "y": 60.5,
+            "width": 48,
+            "height": 48,
+            "bottom": 108.5,
+            "right": 60
+          },
+          "fontSize": "56px",
+          "disabled": false
+        },
+        {
+          "text": "Play this passage",
+          "rect": {
+            "x": 27,
+            "y": -1338.15625,
+            "width": 24,
+            "height": 24,
+            "bottom": -1314.15625,
+            "right": 51
+          },
+          "fontSize": "42px",
+          "disabled": false
+        },
+        {
+          "text": "Hans komradio är död och han måste stå kvar vid den öppna dörren.",
+          "rect": {
+            "x": 36,
+            "y": 99.1875,
+            "width": 318,
+            "height": 193,
+            "bottom": 292.1875,
+            "right": 354
+          },
+          "fontSize": "30px",
+          "disabled": false
+        },
+        {
+          "text": "Han har tappat bort sin komradio och måste leta efter den i tåget.",
+          "rect": {
+            "x": 36,
+            "y": 302.1875,
+            "width": 318,
+            "height": 193,
+            "bottom": 495.1875,
+            "right": 354
+          },
+          "fontSize": "30px",
+          "disabled": false
+        },
+        {
+          "text": "Hans komradio fungerar, men högtalarna på stationen överröstar honom.",
+          "rect": {
+            "x": 36,
+            "y": 505.1875,
+            "width": 318,
+            "height": 235,
+            "bottom": 740.1875,
+            "right": 354
+          },
+          "fontSize": "30px",
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "name": "text200-header-moss-390",
+      "note": "Whole UI text stress at 200%, including fixed header, labels and controls",
+      "viewport": [
+        390,
+        844
+      ],
+      "rootWidth": 390,
+      "focus": {
+        "name": "\n  \n    davioExplore to Hall · playable design preview\n    Demo options\n  \n  davioStockholmRecommend",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844,
+          "bottom": 844,
+          "right": 390
+        },
+        "outline": "rgb(247, 239, 221) none 3px",
+        "visible": false
+      },
+      "passages": [],
+      "controls": [
+        {
+          "text": "Demo options",
+          "rect": {
+            "x": 245.109375,
+            "y": -9,
+            "width": 132.890625,
+            "height": 72,
+            "bottom": 63,
+            "right": 378
+          },
+          "fontSize": "22px",
+          "disabled": false
+        },
+        {
+          "text": "World",
+          "rect": {
+            "x": 328,
+            "y": 98,
+            "width": 48,
+            "height": 48,
+            "bottom": 146,
+            "right": 376
+          },
+          "fontSize": "32px",
+          "disabled": false
+        },
+        {
+          "text": "Start Pass it along",
+          "rect": {
+            "x": 16,
+            "y": 166,
+            "width": 358,
+            "height": 410.15625,
+            "bottom": 576.15625,
+            "right": 374
+          },
+          "fontSize": "32px",
+          "disabled": false
+        },
+        {
+          "text": "Start The locker code",
+          "rect": {
+            "x": 16,
+            "y": 1024.3125,
+            "width": 358,
+            "height": 330.15625,
+            "bottom": 1354.46875,
+            "right": 374
+          },
+          "fontSize": "32px",
+          "disabled": false
+        },
+        {
+          "text": "Explore",
+          "rect": {
+            "x": 0,
+            "y": 779,
+            "width": 129.984375,
+            "height": 55,
+            "bottom": 834,
+            "right": 129.984375
+          },
+          "fontSize": "30px",
+          "disabled": false
+        },
+        {
+          "text": "Practice",
+          "rect": {
+            "x": 130,
+            "y": 779,
+            "width": 129.984375,
+            "height": 55,
+            "bottom": 834,
+            "right": 259.984375
+          },
+          "fontSize": "30px",
+          "disabled": false
+        },
+        {
+          "text": "Profile",
+          "rect": {
+            "x": 260,
+            "y": 779,
+            "width": 129.984375,
+            "height": 55,
+            "bottom": 834,
+            "right": 389.984375
+          },
+          "fontSize": "30px",
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "name": "compose-checking-360",
+      "note": "Native checking UI; request intercepted and held by audit harness; no evaluator result claimed",
+      "viewport": [
+        360,
+        640
+      ],
+      "rootWidth": 360,
+      "focus": {
+        "name": "\n  \n    davioExplore to Hall · playable design preview\n    Demo options\n  \n  ×Det är rusningstid på ",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 360,
+          "height": 640,
+          "bottom": 640,
+          "right": 360
+        },
+        "outline": "rgb(243, 237, 227) none 3px",
+        "visible": false
+      },
+      "passages": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "controls": [
+        {
+          "text": "Demo options",
+          "rect": {
+            "x": 260.125,
+            "y": 5,
+            "width": 87.875,
+            "height": 44,
+            "bottom": 49,
+            "right": 348
+          },
+          "fontSize": "11px",
+          "disabled": false
+        },
+        {
+          "text": "Leave sitting",
+          "rect": {
+            "x": 12,
+            "y": 60.5,
+            "width": 48,
+            "height": 48,
+            "bottom": 108.5,
+            "right": 60
+          },
+          "fontSize": "28px",
+          "disabled": false
+        },
+        {
+          "text": "Play this passage",
+          "rect": {
+            "x": 24,
+            "y": -970,
+            "width": 24,
+            "height": 24,
+            "bottom": -946,
+            "right": 48
+          },
+          "fontSize": "20px",
+          "disabled": false
+        },
+        {
+          "text": "Play this passage",
+          "rect": {
+            "x": 24,
+            "y": -682,
+            "width": 24,
+            "height": 24,
+            "bottom": -658,
+            "right": 48
+          },
+          "fontSize": "20px",
+          "disabled": false
+        },
+        {
+          "text": "Play this passage",
+          "rect": {
+            "x": 24,
+            "y": -514,
+            "width": 24,
+            "height": 24,
+            "bottom": -490,
+            "right": 48
+          },
+          "fontSize": "20px",
+          "disabled": false
+        },
+        {
+          "text": "",
+          "rect": {
+            "x": 33,
+            "y": 343.78125,
+            "width": 294,
+            "height": 134,
+            "bottom": 477.78125,
+            "right": 327
+          },
+          "fontSize": "18px",
+          "disabled": true
+        },
+        {
+          "text": "Checking...",
+          "rect": {
+            "x": 33,
+            "y": 495.78125,
+            "width": 294,
+            "height": 50,
+            "bottom": 545.78125,
+            "right": 327
+          },
+          "fontSize": "15px",
+          "disabled": true
+        }
+      ]
+    },
+    {
+      "name": "compose-unchecked-360",
+      "note": "Native technical feedback after injected unchecked response",
+      "viewport": [
+        360,
+        640
+      ],
+      "rootWidth": 360,
+      "focus": {
+        "name": "Try checking again",
+        "rect": {
+          "x": 23,
+          "y": 502,
+          "width": 314,
+          "height": 50,
+          "bottom": 552,
+          "right": 337
+        },
+        "outline": "rgb(27, 36, 40) none 3px",
+        "visible": false
+      },
+      "passages": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "controls": [
+        {
+          "text": "Demo options",
+          "rect": {
+            "x": 260.125,
+            "y": 5,
+            "width": 87.875,
+            "height": 44,
+            "bottom": 49,
+            "right": 348
+          },
+          "fontSize": "11px",
+          "disabled": false
+        },
+        {
+          "text": "Leave sitting",
+          "rect": {
+            "x": 12,
+            "y": 60.5,
+            "width": 48,
+            "height": 48,
+            "bottom": 108.5,
+            "right": 60
+          },
+          "fontSize": "28px",
+          "disabled": false
+        },
+        {
+          "text": "Play this passage",
+          "rect": {
+            "x": 24,
+            "y": -970,
+            "width": 24,
+            "height": 24,
+            "bottom": -946,
+            "right": 48
+          },
+          "fontSize": "20px",
+          "disabled": false
+        },
+        {
+          "text": "Play this passage",
+          "rect": {
+            "x": 24,
+            "y": -682,
+            "width": 24,
+            "height": 24,
+            "bottom": -658,
+            "right": 48
+          },
+          "fontSize": "20px",
+          "disabled": false
+        },
+        {
+          "text": "Play this passage",
+          "rect": {
+            "x": 24,
+            "y": -514,
+            "width": 24,
+            "height": 24,
+            "bottom": -490,
+            "right": 48
+          },
+          "fontSize": "20px",
+          "disabled": false
+        },
+        {
+          "text": "",
+          "rect": {
+            "x": 33,
+            "y": 343.78125,
+            "width": 294,
+            "height": 134,
+            "bottom": 477.78125,
+            "right": 327
+          },
+          "fontSize": "18px",
+          "disabled": true
+        },
+        {
+          "text": "Checking...",
+          "rect": {
+            "x": 33,
+            "y": 495.78125,
+            "width": 294,
+            "height": 50,
+            "bottom": 545.78125,
+            "right": 327
+          },
+          "fontSize": "15px",
+          "disabled": true
+        },
+        {
+          "text": "Try checking again",
+          "rect": {
+            "x": 23,
+            "y": 502,
+            "width": 314,
+            "height": 50,
+            "bottom": 552,
+            "right": 337
+          },
+          "fontSize": "15px",
+          "disabled": false
+        },
+        {
+          "text": "Leave for now",
+          "rect": {
+            "x": 23,
+            "y": 562,
+            "width": 314,
+            "height": 50,
+            "bottom": 612,
+            "right": 337
+          },
+          "fontSize": "15px",
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "name": "compose-info-360",
+      "note": "Seeded saved feedback object; visual state only, no actual job-success evaluation",
+      "viewport": [
+        360,
+        640
+      ],
+      "rootWidth": 360,
+      "focus": {
+        "name": "OK",
+        "rect": {
+          "x": 23,
+          "y": 562,
+          "width": 314,
+          "height": 50,
+          "bottom": 612,
+          "right": 337
+        },
+        "outline": "rgb(27, 36, 40) none 3px",
+        "visible": false
+      },
+      "passages": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "controls": [
+        {
+          "text": "Demo options",
+          "rect": {
+            "x": 260.125,
+            "y": 5,
+            "width": 87.875,
+            "height": 44,
+            "bottom": 49,
+            "right": 348
+          },
+          "fontSize": "11px",
+          "disabled": false
+        },
+        {
+          "text": "Leave sitting",
+          "rect": {
+            "x": 12,
+            "y": 60.5,
+            "width": 48,
+            "height": 48,
+            "bottom": 108.5,
+            "right": 60
+          },
+          "fontSize": "28px",
+          "disabled": false
+        },
+        {
+          "text": "Play this passage",
+          "rect": {
+            "x": 24,
+            "y": 253,
+            "width": 24,
+            "height": 24,
+            "bottom": 277,
+            "right": 48
+          },
+          "fontSize": "20px",
+          "disabled": false
+        },
+        {
+          "text": "Play this passage",
+          "rect": {
+            "x": 24,
+            "y": 541,
+            "width": 24,
+            "height": 24,
+            "bottom": 565,
+            "right": 48
+          },
+          "fontSize": "20px",
+          "disabled": false
+        },
+        {
+          "text": "Play this passage",
+          "rect": {
+            "x": 24,
+            "y": 709,
+            "width": 24,
+            "height": 24,
+            "bottom": 733,
+            "right": 48
+          },
+          "fontSize": "20px",
+          "disabled": false
+        },
+        {
+          "text": "Audit response",
+          "rect": {
+            "x": 33,
+            "y": 1566.78125,
+            "width": 294,
+            "height": 134,
+            "bottom": 1700.78125,
+            "right": 327
+          },
+          "fontSize": "18px",
+          "disabled": false
+        },
+        {
+          "text": "Submit",
+          "rect": {
+            "x": 33,
+            "y": 1718.78125,
+            "width": 294,
+            "height": 50,
+            "bottom": 1768.78125,
+            "right": 327
+          },
+          "fontSize": "15px",
+          "disabled": false
+        },
+        {
+          "text": "OK",
+          "rect": {
+            "x": 23,
+            "y": 562,
+            "width": 314,
+            "height": 50,
+            "bottom": 612,
+            "right": 337
+          },
+          "fontSize": "15px",
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "name": "reading-paused-360",
+      "note": "Seeded restored accepted state exercises native Resume reading overlay",
+      "viewport": [
+        360,
+        640
+      ],
+      "rootWidth": 360,
+      "focus": {
+        "name": "Resume reading",
+        "rect": {
+          "x": 23,
+          "y": 562,
+          "width": 314,
+          "height": 50,
+          "bottom": 612,
+          "right": 337
+        },
+        "outline": "rgb(27, 36, 40) none 3px",
+        "visible": false
+      },
+      "passages": [
+        0
+      ],
+      "controls": [
+        {
+          "text": "Demo options",
+          "rect": {
+            "x": 260.125,
+            "y": 5,
+            "width": 87.875,
+            "height": 44,
+            "bottom": 49,
+            "right": 348
+          },
+          "fontSize": "11px",
+          "disabled": false
+        },
+        {
+          "text": "Leave sitting",
+          "rect": {
+            "x": 12,
+            "y": 60.5,
+            "width": 48,
+            "height": 48,
+            "bottom": 108.5,
+            "right": 60
+          },
+          "fontSize": "28px",
+          "disabled": false
+        },
+        {
+          "text": "Play this passage",
+          "rect": {
+            "x": 24,
+            "y": 253,
+            "width": 24,
+            "height": 24,
+            "bottom": 277,
+            "right": 48
+          },
+          "fontSize": "20px",
+          "disabled": false
+        },
+        {
+          "text": "Hans komradio är död och han måste stå kvar vid den öppna dörren.",
+          "rect": {
+            "x": 33,
+            "y": 678.46875,
+            "width": 294,
+            "height": 67,
+            "bottom": 745.46875,
+            "right": 327
+          },
+          "fontSize": "15px",
+          "disabled": true
+        },
+        {
+          "text": "Han har tappat bort sin komradio och måste leta efter den i tåget.",
+          "rect": {
+            "x": 33,
+            "y": 755.46875,
+            "width": 294,
+            "height": 67,
+            "bottom": 822.46875,
+            "right": 327
+          },
+          "fontSize": "15px",
+          "disabled": true
+        },
+        {
+          "text": "Hans komradio fungerar, men högtalarna på stationen överröstar honom.",
+          "rect": {
+            "x": 33,
+            "y": 832.46875,
+            "width": 294,
+            "height": 88,
+            "bottom": 920.46875,
+            "right": 327
+          },
+          "fontSize": "15px",
+          "disabled": true
+        },
+        {
+          "text": "Resume reading",
+          "rect": {
+            "x": 23,
+            "y": 562,
+            "width": 314,
+            "height": 50,
+            "bottom": 612,
+            "right": 337
+          },
+          "fontSize": "15px",
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "name": "reading-paused-focus-360",
+      "note": "Keyboard remains within modal while underlying phone is inert",
+      "viewport": [
+        360,
+        640
+      ],
+      "rootWidth": 360,
+      "focus": {
+        "name": "Resume reading",
+        "rect": {
+          "x": 23,
+          "y": 562,
+          "width": 314,
+          "height": 50,
+          "bottom": 612,
+          "right": 337
+        },
+        "outline": "rgb(231, 194, 122) solid 3px",
+        "visible": true
+      },
+      "passages": [
+        0
+      ],
+      "controls": [
+        {
+          "text": "Demo options",
+          "rect": {
+            "x": 260.125,
+            "y": 5,
+            "width": 87.875,
+            "height": 44,
+            "bottom": 49,
+            "right": 348
+          },
+          "fontSize": "11px",
+          "disabled": false
+        },
+        {
+          "text": "Leave sitting",
+          "rect": {
+            "x": 12,
+            "y": 60.5,
+            "width": 48,
+            "height": 48,
+            "bottom": 108.5,
+            "right": 60
+          },
+          "fontSize": "28px",
+          "disabled": false
+        },
+        {
+          "text": "Play this passage",
+          "rect": {
+            "x": 24,
+            "y": 253,
+            "width": 24,
+            "height": 24,
+            "bottom": 277,
+            "right": 48
+          },
+          "fontSize": "20px",
+          "disabled": false
+        },
+        {
+          "text": "Hans komradio är död och han måste stå kvar vid den öppna dörren.",
+          "rect": {
+            "x": 33,
+            "y": 678.46875,
+            "width": 294,
+            "height": 67,
+            "bottom": 745.46875,
+            "right": 327
+          },
+          "fontSize": "15px",
+          "disabled": true
+        },
+        {
+          "text": "Han har tappat bort sin komradio och måste leta efter den i tåget.",
+          "rect": {
+            "x": 33,
+            "y": 755.46875,
+            "width": 294,
+            "height": 67,
+            "bottom": 822.46875,
+            "right": 327
+          },
+          "fontSize": "15px",
+          "disabled": true
+        },
+        {
+          "text": "Hans komradio fungerar, men högtalarna på stationen överröstar honom.",
+          "rect": {
+            "x": 33,
+            "y": 832.46875,
+            "width": 294,
+            "height": 88,
+            "bottom": 920.46875,
+            "right": 327
+          },
+          "fontSize": "15px",
+          "disabled": true
+        },
+        {
+          "text": "Resume reading",
+          "rect": {
+            "x": 23,
+            "y": 562,
+            "width": 314,
+            "height": 50,
+            "bottom": 612,
+            "right": 337
+          },
+          "fontSize": "15px",
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "name": "reading-resumed-360",
+      "note": "Native continuation from restored accepted response",
+      "viewport": [
+        360,
+        640
+      ],
+      "rootWidth": 360,
+      "focus": {
+        "name": "Oskar ber dig skynda till informationsdisken i huvudhallen för att ge Elin ett meddelande. Du tar ru",
+        "rect": {
+          "x": 19,
+          "y": 216,
+          "width": 322,
+          "height": 150,
+          "bottom": 366,
+          "right": 341
+        },
+        "outline": "rgb(16, 16, 16) auto 1px",
+        "visible": true
+      },
+      "passages": [
+        0,
+        1
+      ],
+      "controls": [
+        {
+          "text": "Demo options",
+          "rect": {
+            "x": 260.125,
+            "y": 5,
+            "width": 87.875,
+            "height": 44,
+            "bottom": 49,
+            "right": 348
+          },
+          "fontSize": "11px",
+          "disabled": false
+        },
+        {
+          "text": "Leave sitting",
+          "rect": {
+            "x": 12,
+            "y": 60.5,
+            "width": 48,
+            "height": 48,
+            "bottom": 108.5,
+            "right": 60
+          },
+          "fontSize": "28px",
+          "disabled": false
+        },
+        {
+          "text": "Play this passage",
+          "rect": {
+            "x": 24,
+            "y": -69,
+            "width": 24,
+            "height": 24,
+            "bottom": -45,
+            "right": 48
+          },
+          "fontSize": "20px",
+          "disabled": false
+        },
+        {
+          "text": "Play this passage",
+          "rect": {
+            "x": 24,
+            "y": 219,
+            "width": 24,
+            "height": 24,
+            "bottom": 243,
+            "right": 48
+          },
+          "fontSize": "20px",
+          "disabled": false
+        },
+        {
+          "text": "den bärbara rampen",
+          "rect": {
+            "x": 33,
+            "y": 605.9375,
+            "width": 294,
+            "height": 58,
+            "bottom": 663.9375,
+            "right": 327
+          },
+          "fontSize": "15px",
+          "disabled": false
+        },
+        {
+          "text": "en ny komradio",
+          "rect": {
+            "x": 33,
+            "y": 673.9375,
+            "width": 294,
+            "height": 58,
+            "bottom": 731.9375,
+            "right": 327
+          },
+          "fontSize": "15px",
+          "disabled": false
+        },
+        {
+          "text": "en reservnyckel",
+          "rect": {
+            "x": 33,
+            "y": 741.9375,
+            "width": 294,
+            "height": 58,
+            "bottom": 799.9375,
+            "right": 327
+          },
+          "fontSize": "15px",
+          "disabled": false
+        },
+        {
+          "text": "Scroll down",
+          "rect": {
+            "x": 156,
+            "y": 592,
+            "width": 48,
+            "height": 48,
+            "bottom": 640,
+            "right": 204
+          },
+          "fontSize": "16px",
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "name": "scroll-assist-360",
+      "movements": [
+        {
+          "before": 0,
+          "after": 384,
+          "label": "Scroll down"
+        }
+      ]
+    },
+    {
+      "name": "scroll-assist-end-360",
+      "note": "Ordinary bottom navigation through already revealed first passage and all choices; no future passage",
+      "viewport": [
+        360,
+        640
+      ],
+      "rootWidth": 360,
+      "focus": {
+        "name": "Oskar söker din blick på perrongen. Vad förklarar han om sin situation?",
+        "rect": {
+          "x": 33,
+          "y": 193,
+          "width": 294,
+          "height": 81.46875,
+          "bottom": 274.46875,
+          "right": 327
+        },
+        "outline": "rgb(243, 237, 227) none 3px",
+        "visible": false
+      },
+      "passages": [
+        0
+      ],
+      "controls": [
+        {
+          "text": "Demo options",
+          "rect": {
+            "x": 260.125,
+            "y": 5,
+            "width": 87.875,
+            "height": 44,
+            "bottom": 49,
+            "right": 348
+          },
+          "fontSize": "11px",
+          "disabled": false
+        },
+        {
+          "text": "Leave sitting",
+          "rect": {
+            "x": 12,
+            "y": 60.5,
+            "width": 48,
+            "height": 48,
+            "bottom": 108.5,
+            "right": 60
+          },
+          "fontSize": "28px",
+          "disabled": false
+        },
+        {
+          "text": "Play this passage",
+          "rect": {
+            "x": 24,
+            "y": -131,
+            "width": 24,
+            "height": 24,
+            "bottom": -107,
+            "right": 48
+          },
+          "fontSize": "20px",
+          "disabled": false
+        },
+        {
+          "text": "Hans komradio är död och han måste stå kvar vid den öppna dörren.",
+          "rect": {
+            "x": 33,
+            "y": 294.46875,
+            "width": 294,
+            "height": 67,
+            "bottom": 361.46875,
+            "right": 327
+          },
+          "fontSize": "15px",
+          "disabled": false
+        },
+        {
+          "text": "Han har tappat bort sin komradio och måste leta efter den i tåget.",
+          "rect": {
+            "x": 33,
+            "y": 371.46875,
+            "width": 294,
+            "height": 67,
+            "bottom": 438.46875,
+            "right": 327
+          },
+          "fontSize": "15px",
+          "disabled": false
+        },
+        {
+          "text": "Hans komradio fungerar, men högtalarna på stationen överröstar honom.",
+          "rect": {
+            "x": 33,
+            "y": 448.46875,
+            "width": 294,
+            "height": 88,
+            "bottom": 536.46875,
+            "right": 327
+          },
+          "fontSize": "15px",
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "name": "text200-choice-dusk-360",
+      "note": "Every rendered element computed font-size and numeric line-height doubled; CSS stress test, not native browser font setting",
+      "viewport": [
+        360,
+        640
+      ],
+      "rootWidth": 360,
+      "focus": {
+        "name": "\n  \n    davioExplore to Hall · playable design preview\n    Demo options\n  \n  ×Det är rusningstid på ",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 360,
+          "height": 640,
+          "bottom": 640,
+          "right": 360
+        },
+        "outline": "rgb(243, 237, 227) none 3px",
+        "visible": false
+      },
+      "passages": [
+        0
+      ],
+      "controls": [
+        {
+          "text": "Demo options",
+          "rect": {
+            "x": 225.375,
+            "y": -9,
+            "width": 122.625,
+            "height": 72,
+            "bottom": 63,
+            "right": 348
+          },
+          "fontSize": "22px",
+          "disabled": false
+        },
+        {
+          "text": "Leave sitting",
+          "rect": {
+            "x": 12,
+            "y": 60.5,
+            "width": 48,
+            "height": 48,
+            "bottom": 108.5,
+            "right": 60
+          },
+          "fontSize": "56px",
+          "disabled": false
+        },
+        {
+          "text": "Play this passage",
+          "rect": {
+            "x": 24,
+            "y": -1591,
+            "width": 24,
+            "height": 24,
+            "bottom": -1567,
+            "right": 48
+          },
+          "fontSize": "40px",
+          "disabled": false
+        },
+        {
+          "text": "Hans komradio är död och han måste stå kvar vid den öppna dörren.",
+          "rect": {
+            "x": 33,
+            "y": -105.28125,
+            "width": 294,
+            "height": 193,
+            "bottom": 87.71875,
+            "right": 327
+          },
+          "fontSize": "30px",
+          "disabled": false
+        },
+        {
+          "text": "Han har tappat bort sin komradio och måste leta efter den i tåget.",
+          "rect": {
+            "x": 33,
+            "y": 97.71875,
+            "width": 294,
+            "height": 193,
+            "bottom": 290.71875,
+            "right": 327
+          },
+          "fontSize": "30px",
+          "disabled": false
+        },
+        {
+          "text": "Hans komradio fungerar, men högtalarna på stationen överröstar honom.",
+          "rect": {
+            "x": 33,
+            "y": 300.71875,
+            "width": 294,
+            "height": 235,
+            "bottom": 535.71875,
+            "right": 327
+          },
+          "fontSize": "30px",
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "name": "text200-header-dusk-360",
+      "note": "Whole UI text stress at 200%, including fixed header, labels and controls",
+      "viewport": [
+        360,
+        640
+      ],
+      "rootWidth": 360,
+      "focus": {
+        "name": "\n  \n    davioExplore to Hall · playable design preview\n    Demo options\n  \n  davioStockholmRecommend",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 360,
+          "height": 640,
+          "bottom": 640,
+          "right": 360
+        },
+        "outline": "rgb(243, 237, 227) none 3px",
+        "visible": false
+      },
+      "passages": [],
+      "controls": [
+        {
+          "text": "Demo options",
+          "rect": {
+            "x": 225.375,
+            "y": -9,
+            "width": 122.625,
+            "height": 72,
+            "bottom": 63,
+            "right": 348
+          },
+          "fontSize": "22px",
+          "disabled": false
+        },
+        {
+          "text": "World",
+          "rect": {
+            "x": 298,
+            "y": 98,
+            "width": 48,
+            "height": 48,
+            "bottom": 146,
+            "right": 346
+          },
+          "fontSize": "32px",
+          "disabled": false
+        },
+        {
+          "text": "Start Pass it along",
+          "rect": {
+            "x": 16,
+            "y": 166,
+            "width": 328,
+            "height": 397.65625,
+            "bottom": 563.65625,
+            "right": 344
+          },
+          "fontSize": "32px",
+          "disabled": false
+        },
+        {
+          "text": "Start The locker code",
+          "rect": {
+            "x": 16,
+            "y": 999.3125,
+            "width": 328,
+            "height": 369.65625,
+            "bottom": 1368.96875,
+            "right": 344
+          },
+          "fontSize": "32px",
+          "disabled": false
+        },
+        {
+          "text": "Explore",
+          "rect": {
+            "x": 0,
+            "y": 575,
+            "width": 120,
+            "height": 55,
+            "bottom": 630,
+            "right": 120
+          },
+          "fontSize": "30px",
+          "disabled": false
+        },
+        {
+          "text": "Practice",
+          "rect": {
+            "x": 120,
+            "y": 575,
+            "width": 120,
+            "height": 55,
+            "bottom": 630,
+            "right": 240
+          },
+          "fontSize": "30px",
+          "disabled": false
+        },
+        {
+          "text": "Profile",
+          "rect": {
+            "x": 240,
+            "y": 575,
+            "width": 120,
+            "height": 55,
+            "bottom": 630,
+            "right": 360
+          },
+          "fontSize": "30px",
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "name": "text200-choice-moss-360",
+      "note": "Every rendered element computed font-size and numeric line-height doubled; CSS stress test, not native browser font setting",
+      "viewport": [
+        360,
+        640
+      ],
+      "rootWidth": 360,
+      "focus": {
+        "name": "\n  \n    davioExplore to Hall · playable design preview\n    Demo options\n  \n  ×Det är rusningstid på ",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 360,
+          "height": 640,
+          "bottom": 640,
+          "right": 360
+        },
+        "outline": "rgb(247, 239, 221) none 3px",
+        "visible": false
+      },
+      "passages": [
+        0
+      ],
+      "controls": [
+        {
+          "text": "Demo options",
+          "rect": {
+            "x": 225.375,
+            "y": -9,
+            "width": 122.625,
+            "height": 72,
+            "bottom": 63,
+            "right": 348
+          },
+          "fontSize": "22px",
+          "disabled": false
+        },
+        {
+          "text": "Leave sitting",
+          "rect": {
+            "x": 12,
+            "y": 60.5,
+            "width": 48,
+            "height": 48,
+            "bottom": 108.5,
+            "right": 60
+          },
+          "fontSize": "56px",
+          "disabled": false
+        },
+        {
+          "text": "Play this passage",
+          "rect": {
+            "x": 24,
+            "y": -1591,
+            "width": 24,
+            "height": 24,
+            "bottom": -1567,
+            "right": 48
+          },
+          "fontSize": "40px",
+          "disabled": false
+        },
+        {
+          "text": "Hans komradio är död och han måste stå kvar vid den öppna dörren.",
+          "rect": {
+            "x": 33,
+            "y": -105.28125,
+            "width": 294,
+            "height": 193,
+            "bottom": 87.71875,
+            "right": 327
+          },
+          "fontSize": "30px",
+          "disabled": false
+        },
+        {
+          "text": "Han har tappat bort sin komradio och måste leta efter den i tåget.",
+          "rect": {
+            "x": 33,
+            "y": 97.71875,
+            "width": 294,
+            "height": 193,
+            "bottom": 290.71875,
+            "right": 327
+          },
+          "fontSize": "30px",
+          "disabled": false
+        },
+        {
+          "text": "Hans komradio fungerar, men högtalarna på stationen överröstar honom.",
+          "rect": {
+            "x": 33,
+            "y": 300.71875,
+            "width": 294,
+            "height": 235,
+            "bottom": 535.71875,
+            "right": 327
+          },
+          "fontSize": "30px",
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "name": "text200-header-moss-360",
+      "note": "Whole UI text stress at 200%, including fixed header, labels and controls",
+      "viewport": [
+        360,
+        640
+      ],
+      "rootWidth": 360,
+      "focus": {
+        "name": "\n  \n    davioExplore to Hall · playable design preview\n    Demo options\n  \n  davioStockholmRecommend",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 360,
+          "height": 640,
+          "bottom": 640,
+          "right": 360
+        },
+        "outline": "rgb(247, 239, 221) none 3px",
+        "visible": false
+      },
+      "passages": [],
+      "controls": [
+        {
+          "text": "Demo options",
+          "rect": {
+            "x": 225.375,
+            "y": -9,
+            "width": 122.625,
+            "height": 72,
+            "bottom": 63,
+            "right": 348
+          },
+          "fontSize": "22px",
+          "disabled": false
+        },
+        {
+          "text": "World",
+          "rect": {
+            "x": 298,
+            "y": 98,
+            "width": 48,
+            "height": 48,
+            "bottom": 146,
+            "right": 346
+          },
+          "fontSize": "32px",
+          "disabled": false
+        },
+        {
+          "text": "Start Pass it along",
+          "rect": {
+            "x": 16,
+            "y": 166,
+            "width": 328,
+            "height": 397.65625,
+            "bottom": 563.65625,
+            "right": 344
+          },
+          "fontSize": "32px",
+          "disabled": false
+        },
+        {
+          "text": "Start The locker code",
+          "rect": {
+            "x": 16,
+            "y": 999.3125,
+            "width": 328,
+            "height": 369.65625,
+            "bottom": 1368.96875,
+            "right": 344
+          },
+          "fontSize": "32px",
+          "disabled": false
+        },
+        {
+          "text": "Explore",
+          "rect": {
+            "x": 0,
+            "y": 575,
+            "width": 120,
+            "height": 55,
+            "bottom": 630,
+            "right": 120
+          },
+          "fontSize": "30px",
+          "disabled": false
+        },
+        {
+          "text": "Practice",
+          "rect": {
+            "x": 120,
+            "y": 575,
+            "width": 120,
+            "height": 55,
+            "bottom": 630,
+            "right": 240
+          },
+          "fontSize": "30px",
+          "disabled": false
+        },
+        {
+          "text": "Profile",
+          "rect": {
+            "x": 240,
+            "y": 575,
+            "width": 120,
+            "height": 55,
+            "bottom": 630,
+            "right": 360
+          },
+          "fontSize": "30px",
+          "disabled": false
+        }
+      ]
+    }
+  ]
+}

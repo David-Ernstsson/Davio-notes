@@ -1,0 +1,68 @@
+{
+  "at": "2026-10-21T18:47:32.948Z",
+  "browser": "155.0.4283.62",
+  "url": "https://explore-hall-demo.davio-gym.pages.dev/",
+  "assets": {
+    "index.html": {
+      "status": 200,
+      "bytes": 929,
+      "sha256": "3b09df9000f86f7e1b615c0db3e952b045305d48cd5078f55559563a88dd991c",
+      "normalizedSha256": "0f1938e46426b95a31eaeae9a14abd86dd0bdad688316fd60258715216425684",
+      "matches": [
+        {
+          "ref": "98df0c6",
+          "kind": "LF-normalized"
+        }
+      ]
+    },
+    "app.js": {
+      "status": 200,
+      "bytes": 44087,
+      "sha256": "d1eba3e2873325e887bce36f87aeae9c8dcccc4eb363d9731be133158de1669e",
+      "normalizedSha256": "6086561a41fdc3ff20c84aff31e1e976b5d89c062919af31d9cce082f39ddc76",
+      "matches": [
+        {
+          "ref": "6317497",
+          "kind": "LF-normalized"
+        },
+        {
+          "ref": "98df0c6",
+          "kind": "LF-normalized"
+        }
+      ]
+    },
+    "styles.css": {
+      "status": 200,
+      "bytes": 15012,
+      "sha256": "907fb71a5a5a205cd4883ba349286390e2033cd5d8900cca833c5ff35c7ac2a4",
+      "normalizedSha256": "87004defd2d84b99e2977659ab4f9127e20a3eb3a57a5818afdd495d9c3adeff",
+      "matches": [
+        {
+          "ref": "98df0c6",
+          "kind": "LF-normalized"
+        }
+      ]
+    },
+    "palette.css": {
+      "status": 200,
+      "bytes": 2261,
+      "sha256": "a1b3c13c196173b95d9fb16c1944f012698dd6102a4c1e1a0810c42b204a5b30",
+      "normalizedSha256": "b1c008eacbe3c57cf930fd5f8e2ab1cffe322494155973894a45ee153203ff7a",
+      "matches": []
+    },
+    "palette.mjs": {
+      "status": 200,
+      "bytes": 792,
+      "sha256": "2c040061f4e1549abbb796b4e0433ce0ba3fc911341af0791ff9fcd2c0f1c79c",
+      "normalizedSha256": "e3c8a6b2abdca58977948ddf0caa79131d4514a67830dcb33dd825f2ebf01a23",
+      "matches": []
+    },
+    "lesson-data.json": {
+      "status": 200,
+      "bytes": 5490,
+      "sha256": "5b57f903a901b6c2b4da8507d26837de6400c2cb8bd1b5922de2aed4aa5330b2",
+      "normalizedSha256": "5b57f903a901b6c2b4da8507d26837de6400c2cb8bd1b5922de2aed4aa5330b2",
+      "matches": []
+    }
+  }
+}

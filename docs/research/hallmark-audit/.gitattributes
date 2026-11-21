@@ -1,0 +1,2 @@
+# Keep downloaded evidence byte-exact so served SHA-256 hashes remain verifiable.
+evidence/hosted-* -text -diff

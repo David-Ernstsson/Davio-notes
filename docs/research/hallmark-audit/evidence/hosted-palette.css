@@ -1,0 +1,12 @@
+/* Shared learner colors; authored imagery, grades and scene shades stay fixed. */
+@font-face{font-family:Fraunces;src:url('assets/fraunces-latin.woff2') format('woff2');font-style:normal;font-weight:100 900;font-display:block}
+body[data-palette]{--serif:Georgia,'Times New Roman',serif;--ui:Arial,sans-serif;--paper:#1b2428;--sheet:#243033;--ink:#f3ede3;--muted:#b7c0b4;--copper:#e7c27a;--active:var(--copper);--line:#445153;--turn:#2d3b3e;--open:var(--turn);--action:#e7c27a;--action-ink:#1b2428;--progress:#647174;--field-line:#829391;--accepted:#3c5350;--feedback:#e6d5b9;--feedback-ink:#253432;--success:#324943;--scrim:#10191dcc;--overlay:#243033;--overlay-ink:#f3ede3;--hall-action:#cba572;--hall-action-ink:#1b2428;--fact:#243033e8;--soft-line:#f3ede340;--soft-fill:#f3ede30c;--selected:#f3ede314;--unavailable-text:#a6afa6;--unavailable-dot:#8b988f}
+body[data-palette="moss"]{--paper:#142f29;--sheet:#203e34;--ink:#f7efdd;--muted:#c5cfbf;--copper:#e9ac80;--line:#3a5449;--turn:#294b40;--action:#ecc7a2;--action-ink:#1d352c;--progress:#668071;--field-line:#91a18a;--accepted:#385c49;--feedback:#eee2cc;--feedback-ink:#263d32;--success:#294d3c;--scrim:#071a16c9;--overlay:#ead5b5;--overlay-ink:#263a2f;--hall-action:var(--action);--hall-action-ink:var(--action-ink);--fact:#1c352de8;--soft-line:#f7efdd40;--soft-fill:#f7efdd0c;--selected:#f7efdd14;--unavailable-text:#a7b5a6;--unavailable-dot:#92a393}
+body[data-palette] .tabs{padding-inline:0}
+body[data-palette] .tab{position:relative;width:33.333333%;height:100%;min-height:48px;font:400 15px/20px var(--ui);color:var(--muted)}
+body[data-palette] .tab.active{font-weight:700;color:var(--active)}
+body[data-palette] .tab.active::after{content:'';position:absolute;bottom:5px;width:20px;height:2px;border-radius:1px;background:currentColor}
+body[data-palette] .tab .icon{display:none}
+body[data-palette] .destination-name,body[data-palette] .entry-title{font-family:Fraunces,Georgia,serif;font-weight:400}
+.palette-control{display:grid;gap:10px;margin:26px 0;font:15px/20px var(--ui);color:var(--ink)}
+.palette-control select{width:100%;min-height:48px;padding:10px 12px;border:1px solid var(--field-line);border-radius:5px;background:var(--sheet);color:var(--ink);font:15px/20px var(--ui)}

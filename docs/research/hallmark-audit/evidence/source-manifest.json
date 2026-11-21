@@ -1,0 +1,176 @@
+{
+  "at": "2026-10-21T18:50:51.472Z",
+  "mainRevision": "d9e383e3d0bf028fd217d081edc2e0827c45731a",
+  "candidateRevision": "e4f83a1a71e8401a580641fcd1bb1cfcdc74f0c2",
+  "hallmarkRevision": "13ac0ec7e148655948100b6396439e481361d690",
+  "assets": [
+    {
+      "file": "index.html",
+      "sha256": "3b09df9000f86f7e1b615c0db3e952b045305d48cd5078f55559563a88dd991c",
+      "lfSha256": "0f1938e46426b95a31eaeae9a14abd86dd0bdad688316fd60258715216425684",
+      "matches": [
+        {
+          "revision": "98df0c68469dfea382ddc23a91f83dd72cd075a7",
+          "path": "prototypes/explore-hall/index.html",
+          "match": "LF-normalized"
+        }
+      ]
+    },
+    {
+      "file": "app.js",
+      "sha256": "d1eba3e2873325e887bce36f87aeae9c8dcccc4eb363d9731be133158de1669e",
+      "lfSha256": "6086561a41fdc3ff20c84aff31e1e976b5d89c062919af31d9cce082f39ddc76",
+      "matches": [
+        {
+          "revision": "6317497eb6fdbe60093f03940118258ef1f28c4b",
+          "path": "prototypes/explore-hall/app.js",
+          "match": "LF-normalized"
+        },
+        {
+          "revision": "98df0c68469dfea382ddc23a91f83dd72cd075a7",
+          "path": "prototypes/explore-hall/app.js",
+          "match": "LF-normalized"
+        }
+      ]
+    },
+    {
+      "file": "styles.css",
+      "sha256": "907fb71a5a5a205cd4883ba349286390e2033cd5d8900cca833c5ff35c7ac2a4",
+      "lfSha256": "87004defd2d84b99e2977659ab4f9127e20a3eb3a57a5818afdd495d9c3adeff",
+      "matches": [
+        {
+          "revision": "98df0c68469dfea382ddc23a91f83dd72cd075a7",
+          "path": "prototypes/explore-hall/styles.css",
+          "match": "LF-normalized"
+        }
+      ]
+    },
+    {
+      "file": "palette.css",
+      "sha256": "a1b3c13c196173b95d9fb16c1944f012698dd6102a4c1e1a0810c42b204a5b30",
+      "lfSha256": "b1c008eacbe3c57cf930fd5f8e2ab1cffe322494155973894a45ee153203ff7a",
+      "matches": [
+        {
+          "revision": "d9e383e3d0bf028fd217d081edc2e0827c45731a",
+          "path": "src/web/src/swedish-practice-grammar.mockup/palette.css",
+          "match": "LF-normalized"
+        },
+        {
+          "revision": "6317497eb6fdbe60093f03940118258ef1f28c4b",
+          "path": "src/web/src/swedish-practice-grammar.mockup/palette.css",
+          "match": "LF-normalized"
+        },
+        {
+          "revision": "98df0c68469dfea382ddc23a91f83dd72cd075a7",
+          "path": "src/web/src/swedish-practice-grammar.mockup/palette.css",
+          "match": "LF-normalized"
+        }
+      ]
+    },
+    {
+      "file": "palette.mjs",
+      "sha256": "2c040061f4e1549abbb796b4e0433ce0ba3fc911341af0791ff9fcd2c0f1c79c",
+      "lfSha256": "e3c8a6b2abdca58977948ddf0caa79131d4514a67830dcb33dd825f2ebf01a23",
+      "matches": [
+        {
+          "revision": "d9e383e3d0bf028fd217d081edc2e0827c45731a",
+          "path": "src/web/src/swedish-practice-grammar.mockup/palette.mjs",
+          "match": "LF-normalized"
+        },
+        {
+          "revision": "6317497eb6fdbe60093f03940118258ef1f28c4b",
+          "path": "src/web/src/swedish-practice-grammar.mockup/palette.mjs",
+          "match": "LF-normalized"
+        },
+        {
+          "revision": "98df0c68469dfea382ddc23a91f83dd72cd075a7",
+          "path": "src/web/src/swedish-practice-grammar.mockup/palette.mjs",
+          "match": "LF-normalized"
+        }
+      ]
+    },
+    {
+      "file": "lesson-data.json",
+      "sha256": "5b57f903a901b6c2b4da8507d26837de6400c2cb8bd1b5922de2aed4aa5330b2",
+      "lfSha256": "5b57f903a901b6c2b4da8507d26837de6400c2cb8bd1b5922de2aed4aa5330b2",
+      "matches": []
+    }
+  ],
+  "governing": [
+    {
+      "path": "docs/product-experience/README.md",
+      "sha256": "7736fcf79a87d7f0ba776889aae66f833f3bc8ba536cd0d07b2e149f861356fe",
+      "lfSha256": "da8f90c595a4f13bd9581bb4ea8b7b01a2c6b845fd3f14115e57a423550f7ee2"
+    },
+    {
+      "path": "docs/product-experience/explore-flow.md",
+      "sha256": "b8b182d6de10d101780da8da4eb487e79f67c2ae2c03efe2cf138df1d64b5e95",
+      "lfSha256": "ca7c90ab63eb9593b4c58f0c7bc846e1f48abf22d1915fe6ff3a4eb8bd52827c"
+    },
+    {
+      "path": "docs/product-experience/swedish-explore-screen-decision.md",
+      "sha256": "a103f63f6f0637b24a55435942e9961fde22c7542b5a1e150f6d794a8050caf0",
+      "lfSha256": "35b562e2382531d4af893ef66475991675c6ef6bbb2dcb502749b1cab1925fb0"
+    },
+    {
+      "path": "docs/product-experience/swedish-explore-mockup-spec.md",
+      "sha256": "48cda934f47e061e45bc29a2f8c924421422aa180b8ec2bc10368c81f6bb66eb",
+      "lfSha256": "b53ef05cf5b601242d18fa4e2a21c221df98d33be252f4a26b1caaa1c289e6f5"
+    },
+    {
+      "path": "docs/product-experience/sitting.md",
+      "sha256": "c6d5582d09205e050e252c131f1209eebcf2202bcd452979af0aa777e4a479f9",
+      "lfSha256": "10e609a4198cbd24de01d984163d2b90246770027841499c990a1099a5bec74d"
+    },
+    {
+      "path": "docs/product-experience/screen-consistency.md",
+      "sha256": "c844e6a4634584a227db64362c2b207f06e1d3ad35b32943734625af5ecb25f9",
+      "lfSha256": "733259090cc47b3d99068d99a80b5515c249bde5ab8c1b4b71eca28e39e80b2c"
+    },
+    {
+      "path": "docs/product-experience/brand-world.md",
+      "sha256": "98e34f03eaab5431cbce5392457a0bc6e00fd2d6b2c23a0014e39617541a4e69",
+      "lfSha256": "fcf13192b7c349ac531cde585caadee172528ad41dc1d38f6404187b07e7acd3"
+    },
+    {
+      "path": "docs/product-experience/hall.md",
+      "sha256": "4d3c1f9a24ccbd7ba4447cca87e2ae674e1255ac24897dd25684f4a910488e37",
+      "lfSha256": "f3b77d3a28b3bb9e60e205b2a3d985a9c35c38b2b422d62d4284ac341faee732"
+    },
+    {
+      "path": "docs/product-experience/learning-philosophy.md",
+      "sha256": "b625ca1ac984c929fb02de09b2933edbc6ec9bcdbd3d32ac36fc032f34b837ba",
+      "lfSha256": "3d60a05daf2a18a97eab4f387ef4d71ff1b3c97b47430298a9757e70ec1425fd"
+    }
+  ],
+  "hallmark": [
+    {
+      "path": "SKILL.md",
+      "sha256": "814fcf95a17ac8ce45b7d9c22584e1dcc592ce7a22c86d23bce20f297139366b"
+    },
+    {
+      "path": "references/verbs/audit.md",
+      "sha256": "8f1847b14ab126174579552927c96ed5e7127352c7b34dd7334a8c22211deab3"
+    },
+    {
+      "path": "references/anti-patterns.md",
+      "sha256": "11a457b179302bf4362b6a1c2fe24082c91192cfed4813723459ab6816c13f6d"
+    },
+    {
+      "path": "references/slop-test.md",
+      "sha256": "c34e27cf715ae5fc53bee7e4ac2ace98c55d3278b0606f18604c474ffe5a337f"
+    },
+    {
+      "path": "references/responsive.md",
+      "sha256": "4b37be1342395530d609df8ff3709967f3a98cfdd7f3fee421463785dc13ca9f"
+    },
+    {
+      "path": "references/interaction-and-states.md",
+      "sha256": "e84f81fa436daa8bb47660bd508c9c5d6e03ecd3c953ffdad2101433e2953fe2"
+    },
+    {
+      "path": "references/contract.md",
+      "sha256": "c0806f54753fb996a181faf435aeb5a540bafb8abf50225d8cd76ec09df6d528"
+    }
+  ]
+}

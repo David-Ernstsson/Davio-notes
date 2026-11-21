@@ -1,0 +1,26 @@
+{
+  "date": "2026-10-21",
+  "purpose": "Correct the original visual assessment using the retained screenshot corpus and a fresh live browser spot check; not a rerun of the full automated matrix.",
+  "target": "https://explore-hall-demo.davio-gym.pages.dev/",
+  "visualEvidence": "Existing dated screenshots in ../screenshots; source attribution remains the archived matched revision, not a new full served-asset identity claim.",
+  "liveSpotCheck": {
+    "browser": "Codex in-app browser; engine version not recorded for this spot check",
+    "palette": "dusk",
+    "devicePixelRatio": 1,
+    "viewports": [
+      {"width":390,"height":844,"passageFont":"21px / 31.71px Georgia, Times New Roman, serif","promptFont":"20px / 28.6px Arial, sans-serif","optionFont":"15px / 21px Arial, sans-serif"},
+      {"width":360,"height":640,"passageFont":"20px / 30px Georgia, Times New Roman, serif","promptFont":"19px / 27.17px Arial, sans-serif"}
+    ],
+    "passageAndPromptInk": "rgb(243, 237, 227)",
+    "fontWeight": "normal; perceived visual weight is not computed bold",
+    "states": ["ongoing Explore", "resumed Sitting with reading and choice prompt"],
+    "viewportOverrideReset": true
+  },
+  "review": {
+    "method": "Lead and two agents independently inspected original full-size Dusk screenshots. Writer re-evaluated visual hierarchy and imagery against pinned Hallmark rules; separate reviewer inspected evidence before revised report.",
+    "requestedAgentModel": "gpt-6.1-sol",
+    "requestedReasoningEffort": "high",
+    "dispatchEvidence": "Both fresh agent spawns explicitly supplied those settings; backend routing not independently certified.",
+    "limits": "Visual quality judgments are not learner-study outcomes, accessibility failures, Android/device verification, asset provenance claims, or implementation approval. Full six-width and response-state coverage remains the original browser run."
+  }
+}
